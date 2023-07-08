@@ -18,7 +18,7 @@ def find_folders_with_pdf(folder_path):
     return pdf_folders
 
 # Provide the path to the main folder
-folder_path = "C:/rec2/"
+folder_path = "path_to_main_folder"
 
 # Call the function to get the list of folders
 pdf_folders = find_folders_with_pdf(folder_path)
